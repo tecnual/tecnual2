@@ -1,4 +1,20 @@
-.dropdown-menu img{
+
+@media (max-width: 767px) {
+.dropdown-menu .invert img{
      -webkit-filter: invert(100%);
     filter: invert(100%);
+}
+}
+footer .panel-default{
+  background-image: url("/img/texturas-metal-18.jpg");
+}
+footer .panel-body {
+  color: #fff;
+}
+footer .panel-body h4, footer .panel-body h1{
+  color: #fff;
+  font-weight: bold;
+}
+footer .panel-footer{
+  color: #888
 }

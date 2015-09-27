@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="300mm"
+   height="225mm"
+   viewBox="0 0 1062.9921 797.24409"
+   id="svg4152"
+   version="1.1"
+   inkscape:version="0.91 r"
+   sodipodi:docname="logoTecnualNubeIV.svg">
+  <defs
+     id="defs4154" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000098"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="314.72593"
+     inkscape:cy="554.8803"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4157">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-255.11811)">
+    <path
+       style="opacity:1;fill:#ff0000;fill-opacity:0;fill-rule:nonzero;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 375.01837,346.51436 a 251.08055,251.08055 0 0 0 -251.0787,251.08098 251.08055,251.08055 0 0 0 6.38338,54.83425 c -54.760768,22.75637 -93.082185,76.65829 -93.082185,139.84508 0,83.88528 67.532215,151.4175 151.417495,151.4175 l 685.53957,0 c 83.88528,0 151.41747,-67.53222 151.41747,-151.4175 0,-77.81974 -58.12276,-141.55472 -133.50035,-150.3665 a 83.196433,83.196433 0 0 0 0.38674,-7.70738 83.196433,83.196433 0 0 0 -83.19772,-83.19545 83.196433,83.196433 0 0 0 -38.45496,9.46132 A 138.10606,138.10606 0 0 0 634.59157,444.51261 138.10606,138.10606 0 0 0 581.51808,455.2547 251.08055,251.08055 0 0 0 375.01837,346.51436 Z"
+       id="path4710"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:42.865242px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:4.2865243;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+       x="122.52335"
+       y="821.26221"
+       id="text4723"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4725"
+         x="122.52335"
+         y="821.26221"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:192.89360046px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#ff0000;stroke:none;stroke-width:4.2865243;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1;">{Tecnual}</tspan></text>
+  </g>
+</svg>
