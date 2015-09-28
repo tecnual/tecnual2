@@ -1,6 +1,6 @@
 
 @media (max-width: 767px) {
-.dropdown-menu .invert img{
+.invertir{
      -webkit-filter: invert(100%);
     filter: invert(100%);
 }
@@ -16,5 +16,6 @@ footer .panel-body h4, footer .panel-body h1{
   font-weight: bold;
 }
 footer .panel-footer{
-  color: #888
+  color: #111;
+  background-color: #888;
 }
